@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-yandex-ui",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bem/cra-template-yandex-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bem/cra-template-yandex-ui/issues"
+  },
+  "homepage": "https://github.com/bem/cra-template-yandex-ui#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
